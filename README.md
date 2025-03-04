@@ -8,9 +8,9 @@ Why AI can be used in EDD - 5 min - Afreen
 
 Why EnvBert - 5 min - Afreen
 
-Data for EnvBert - 15 min - Afreen
+Data for EnvBert (Data in Brief, Mendeley) - 15 min - Afreen
 
-How we trained EnvBert and its pipeline - 20 min - Deepak
+How we trained EnvBert and its pipeline (Envbert paper, software impacts) - 20 min - Deepak
 
 Evaluating EnvBert predictions - 20 min - Afreen
 
