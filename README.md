@@ -2,16 +2,20 @@
 
 ## course outlines
 
-Environmental Due Diligence - 5 min
+Environmental Due Diligence - 5 min - Afreen
 
-Why AI can be used in EDD - 5 min
+Why AI can be used in EDD - 5 min - Afreen
 
-Why EnvBert
+Why EnvBert - 5 min - Afreen
 
-Data for EnvBert
+Data for EnvBert - 15 min - Afreen
 
-How we trained EnvBert and its pipeline
+How we trained EnvBert and its pipeline - 20 min - Deepak
 
-Evaluation using EnvBert
+Evaluating EnvBert predictions - 20 min - Afreen
 
-Fine-tuning EnvBert with LLM
+Benchmarking EnvBert with LLM reasoning - 20 min - Afreen
+
+Fine-tuning EnvBert with LLM - 20 min - Deepak
+
+Future Improvements with EnvBert - 5 min - Afreen
